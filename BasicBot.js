@@ -245,11 +245,11 @@
     var botCreatorIDs = [3851534, 4105209];
 
     var basicBot = {
-        version: '2.12.2',
+        version: '2.12.4',
         status: false,
         name: 'basicBot',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/basicBot.js',
+        scriptLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/BasicBot.js',
         cmdLink: 'http://git.io/245Ppg',
         chatLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/pt-BR.json',
         chat: null,
@@ -260,7 +260,7 @@
             botName: '∂σяιтσ',
             language: 'portuguese',
             chatLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/pt-BR.json',
-            scriptLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/basicBot.js',
+            scriptLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/BasicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
