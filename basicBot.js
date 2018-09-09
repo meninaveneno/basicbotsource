@@ -257,7 +257,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'BOT',
+            botName: '∂σяιтσ',
             language: 'portuguese',
             chatLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/pt-BR.json',
             scriptLink: 'https://rawgit.com/meninaveneno/basicbotsource/master/basicBot.js',
@@ -288,7 +288,7 @@
             autodisable: false,
             commandCooldown: 30,
             usercommandsEnabled: true,
-            thorCommand: false,
+            thorCommand: true,
             thorCooldown: 10,
             skipPosition: 3,
             skipReasons: [
@@ -3674,7 +3674,7 @@
                                 indexArrUsedThor,
                                 thorCd = false,
                                 timeInMinutes = 0,
-                                worthyAlg = Math.floor(Math.random() * 10) + 1,
+                                worthyAlg = Math.floor((Math.random() * 10) + 1),
                                 worthy = worthyAlg == 10 ? true : false;
 
                             // sly benzi 👀
